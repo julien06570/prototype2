@@ -1,4 +1,4 @@
-package com.ja.wanchai;
+package com.ja.ks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
